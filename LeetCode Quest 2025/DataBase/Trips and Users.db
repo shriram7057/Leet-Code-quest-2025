@@ -1,0 +1,15 @@
+SELECT
+    TO_CHAR(TO_DATE(request_at, 'YYYY-MM-DD'), 'YYYY-MM-DD') AS "Day",
+    ROUND(
+        SUM(CASE WHEN status = 'completed' THEN 0 ELSE 1 END) 
+        / COUNT(*),
+        2
+    ) AS "Cancellation Rate"
+FROM Trips t
+JOIN Users c ON t.client_id = c.users_id AND c.banned = 'No'
+JOIN Users d ON t.driver_id = d.users_id AND d.banned = 'No'
+WHERE TO_DATE(request_at, 'YYYY-MM-DD') 
+      BETWEEN TO_DATE('2013-10-01','YYYY-MM-DD') 
+      AND     TO_DATE('2013-10-03','YYYY-MM-DD')
+GROUP BY TO_DATE(request_at, 'YYYY-MM-DD')
+ORDER BY "Day";
