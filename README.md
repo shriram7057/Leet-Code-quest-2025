@@ -1,8 +1,11 @@
-# LeetCode Quest Challenge Solutions
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="220" />
+</p>
 
-Welcome to my repository containing solutions for the **LeetCode Quest Challenge** completed in 2025. This collection includes well-commented code and explanations for each problem solved during the challenge.
+<h1 align="center">LeetCode Quest 2025 Challenge Solutions</h1>
 
 ## Overview
+Welcome to my repository containing solutions for the **LeetCode Quest Challenge** completed in 2025. This collection includes well-commented code and explanations for each problem solved during the challenge.
 
 The LeetCode Quest Challenge is a set of algorithmic problems that test a wide range of skills including data structures, algorithms, and problem-solving techniques. In this repository, you'll find my implementations in [your programming language, e.g., Python, C++, Java].
 
