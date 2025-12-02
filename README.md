@@ -1,4 +1,12 @@
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode Quest" width="200" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="YOUR_IMAGE_URL_HERE" width="200" />
+</p>
+
+<h1 align="center">LeetCode Quest 2025 Challenge Solutions</h1>
+
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="220" />
 </p>
 
