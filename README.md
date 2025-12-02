@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode Quest" width="200" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode Quest.png" width="200" />
   &nbsp;&nbsp;&nbsp;
   <img src="YOUR_IMAGE_URL_HERE" width="200" />
 </p>
