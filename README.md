@@ -1,28 +1,23 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode Quest.png" width="200" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="180" />
   &nbsp;&nbsp;&nbsp;
-  <img src="YOUR_IMAGE_URL_HERE" width="200" />
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode%20Quest.png?raw=true" width="180" />
 </p>
 
 <h1 align="center">LeetCode Quest 2025 Challenge Solutions</h1>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="220" />
-</p>
-
-<h1 align="center">LeetCode Quest 2025 Challenge Solutions</h1>
 
 ## Overview
 Welcome to my repository containing solutions for the **LeetCode Quest Challenge** completed in 2025. This collection includes well-commented code and explanations for each problem solved during the challenge.
 
-The LeetCode Quest Challenge is a set of algorithmic problems that test a wide range of skills including data structures, algorithms, and problem-solving techniques. In this repository, you'll find my implementations in [your programming language, e.g., Python, C++, Java].
+The LeetCode Quest Challenge is a set of algorithmic problems that test a wide range of skills including data structures, algorithms, and problem-solving techniques. In this repository, you'll find my implementations in Python, C++, Java , Sql
 
 ## Repository Structure
 
-- `Day1/` - Solutions for Day 1 problems
-- `Day2/` - Solutions for Day 2 problems
-- ...
-- `DayN/` - Solutions for Day N problems
+- `DataBase/` – Database concepts, SQL, normalization, queries, indexing, transactions, etc.
+- `DSA/` – Data Structures & Algorithms problems, implementations, and explanations.
+- `Maths/` – Mathematical concepts, number theory, combinatorics, and related problem solutions.
+- `System & Software Design/` – System design, low-level design, UML, architecture patterns, etc.
 
 Each folder contains:
 - Problem statement (link or brief description)
@@ -31,22 +26,18 @@ Each folder contains:
 
 ## How to Use
 
-You can review the code for learning, reference, or to run and test solutions on your local machine.
+### 🔹 1. Clone the Repository
+To download this project to your local machine, run:
 
+```bash
+git clonehttps://github.com/shriram7057/Leet-Code-quest-2025.git
+
+```
 ## Technologies Used
 
-- Programming Language: [Insert your language]
+- Programming Language: Python, C++, Java, Sql
 - Tools: LeetCode platform for challenge problems
 
-## About Me
-
-I'm a passionate software engineer/CS student/algorithm enthusiast working on building strong problem-solving skills. You can check out more of my projects on my GitHub profile.
-
----
-
-Feel free to reach out if you have any questions or suggestions!
-
----
 ## 🤝 Let's Connect!
 <div align="center">
 
