@@ -1,5 +1,5 @@
 <p align="center"</p>
-<img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode%20Quest%20Theme.png?raw=true" width="950"/>
+<img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode%20Quest%20Theme.png?raw=true" width="500"/>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="180" />
   &nbsp;&nbsp;&nbsp;
